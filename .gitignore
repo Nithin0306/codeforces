@@ -1,0 +1,8 @@
+# Ignore all exe files
+*.exe
+
+# Ignore object files
+*.o
+
+# Ignore backup files
+*.out
