@@ -7,4 +7,5 @@
 # Ignore backup files
 *.out
 
-*.vscode
+# Ignore VS Code settings
+.vscode/
