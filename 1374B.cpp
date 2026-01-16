@@ -31,7 +31,8 @@ int main() {
         if (n > 1 || count2 > count3)
 			cout << -1 << endl; 
 		else
-			cout << count3 + (count3 - count2) << endl;
+			cout << count3 + (count3 - count
+                2) << endl;
         
     } 
  
