@@ -31,6 +31,7 @@ int main(){
         cout << "\n";
 
         cout << set2.size() << endl;
+        
         for (int j: set2)
             cout << j << " ";
     }
