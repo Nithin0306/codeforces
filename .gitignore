@@ -9,3 +9,8 @@
 
 # Ignore VS Code settings
 .vscode/
+
+# Ignore files without extension 
+*
+!*.cpp
+!*.md
